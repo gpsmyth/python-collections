@@ -1,5 +1,5 @@
 # python-collections
-Collections
+Collections and Meoters
 
 ## Running
 This section requires python3 and the requests package.
