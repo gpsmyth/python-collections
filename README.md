@@ -10,6 +10,6 @@ Then
 ```
 pipenv --three
 pipenv install requests
-pipenv run python find_meteors.py
+pipenv run python  metoers/find_meteors.py
 ```
 
