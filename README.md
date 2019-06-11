@@ -3,4 +3,13 @@ Collections and Meoters
 
 ## Running
 This section requires python3 and the requests package.
-`python3 find_meteors.py`
+
+First install pipenv using `pip3 install pipenv`
+
+Then
+```
+pipenv --three
+pipenv install requests
+pipenv run python find_meteors.py
+```
+
